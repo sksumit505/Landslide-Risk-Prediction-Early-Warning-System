@@ -2,6 +2,7 @@
 A machine learning-powered system for predicting landslide risks and generating real-time early warnings using spatial, geological, and meteorological data.
 ⛰️ Landslide Risk Prediction & Early Warning System
 A real-time terrain and IoT sensor simulation dashboard designed for the Dehradun & Uttarakhand region to predict landslide risks using Machine Learning.
+
 👨‍💻 About The Project
 As a first-year engineering student, I built this project to explore how Machine Learning and GIS mapping can be applied to real-world disaster management.
 
