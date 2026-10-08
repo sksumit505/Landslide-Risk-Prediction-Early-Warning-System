@@ -50,3 +50,5 @@ Folium dynamically renders geo-located station markers.
 Plotly generates responsive gauge charts.
 
 Alert Pipeline: Evaluates risk thresholds and renders emergency warnings when conditions become critical.
+FIRST RUN THIS CODE IN TERMINAL TO DOWNLOAD REQUIRED ELEMENT
+pip install streamlit pandas numpy scikit-learn folium streamlit-folium plotly twilio
